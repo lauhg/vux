@@ -150,6 +150,7 @@ import XProgress from './src/components/x-progress/index.vue'
 import XSwitch from './src/components/x-switch/index.vue'
 import XTable from './src/components/x-table/index.vue'
 import XTextarea from './src/components/x-textarea/index.vue'
+import CheckItem from './src/components/check-item/index.vue'
 
 export {
   Actionsheet,
@@ -299,5 +300,6 @@ export {
   XProgress,
   XSwitch,
   XTable,
-  XTextarea
+  XTextarea,
+  CheckItem
 }
